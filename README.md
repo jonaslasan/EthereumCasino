@@ -3,7 +3,7 @@
 
 [![N|Solid](Screenshots/ethereum_banner.png)](https://www.ethereum.org)
 
-Proof-of-Concept for a decentralized proovably-fair casino powered by Ethereum.
+Proof-of-Concept for a decentralized provably-fair casino powered by Ethereum.
 
 ## Made with:
 - JavaScript
